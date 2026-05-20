@@ -3,5 +3,9 @@ Chhattisgarh to the north and Andhra Pradesh and Karnataka to the south.
 It is the eleventh largest and the twelfth most populated state of India.
 According to the Rigveda's Aitareya Brahmana, the region corresponding to Telangana has been inhabited by the Andhras since at least the 9th century BCE with the later Satavahana dynasty, who ruled over the entire Deccan Plateau, establishing trade relations as far as the Roman Empire. 
 
+<<<<<<< HEAD
 
 Subsequent major dynasties include the Vishnukundinas, Eastern Chalukyas, Kakatiyas, the Vijayanagara Empire, and Qutb Shahis, followed by the British Raj. Following the Independence of India, the Telugu speaking regions of India were gradually regrouped within the stat
+=======
+Subsequent major dynasties include the Vishnukundinas, Eastern Chalukyas, Kakatiyas, the Vijayanagara Empire, and Qutb Shahis, followed by the British Raj. Following the Independence of India, the Telugu speaking regions of India were gradually regrouped within the stat
+>>>>>>> 3cf4352243ce7aa2c95380b891af79194918eef3
